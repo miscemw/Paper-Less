@@ -4,6 +4,20 @@ title: About
 permalink: /about
 ---
 
-*This is an about page.*
+# About Me
+Graphic designer and educational publisher for more than 30 years. Part-time teacher. 
 
-Feel free to tell the world about what you love! 😍
+Planners are my passion; I’ve been consuming and creating them for as long as I can remember and I’m loving the shift from paper to paperless!
+
+I'm one of the founders of [E&R Publications](https://eandrpublications.com.au/), a company that produces productivity and curriculum resources for teachers. 
+
+This year I'm working on a few projects.
+- An interactive PDF planner for regular people (not just teachers)
+- Writing regularly on Medium
+- Learning how Twitter works
+- Exploring plain text productivity
+
+---
+I built this digital garden on the free, open-source template [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template). I create and edit Markdown files for this site in [Obsidian](http://obsidian.md), and edit the html files in [Visual Studio Code](https://code.visualstudio.com).
+
+If you want to build your own, the easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
