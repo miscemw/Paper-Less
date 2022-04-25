@@ -8,7 +8,9 @@ permalink: /
 # Welcome! 🌱
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
+  This is my first effort at creating an online, *free* website via Github and Jekyll. Heady stuff! I'm out of my depth, but staying afloat so far.
+  <br>
+  Go to <span style="font-weight: bold">[[Your first note]]</span> to see a sample interlinked note.
 </p>
 
 This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
