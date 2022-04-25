@@ -2,10 +2,9 @@
 layout: page
 title: About
 permalink: /about
-banner: "![[miscellaneplans banner.jpg]]"
-banner_y: 0.46
 ---
 
+![[Pasted image 20220425160904.png]]
 # About Me
 I've been a graphic designer and educational publisher for more than 30 years, and I teach part-time. 
 
