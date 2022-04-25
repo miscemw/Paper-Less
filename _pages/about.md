@@ -2,6 +2,8 @@
 layout: page
 title: About
 permalink: /about
+banner: "![[miscellaneplans banner.jpg]]"
+banner_y: 0.46
 ---
 
 # About Me
@@ -9,7 +11,7 @@ Graphic designer and educational publisher for more than 30 years. Part-time tea
 
 Planners are my passion; I’ve been consuming and creating them for as long as I can remember and I’m loving the shift from paper to paperless!
 
-I'm one of the founders of [E&R Publications](https://eandrpublications.com.au/), a company that produces productivity and curriculum resources for teachers. 
+I'm one of the founders of [E&R Publications](https://eandrpublications.com.au/), a company that produces productivity and curriculum resources for teachers. You can also find our exclusively digital products on [Teachers Pay Teachers](https://www.teacherspayteachers.com/Store/E-And-R-Publications).
 
 This year I'm working on a few projects.
 - An interactive PDF planner for regular people (not just teachers)
