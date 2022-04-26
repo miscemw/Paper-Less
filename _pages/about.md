@@ -3,9 +3,10 @@ layout: page
 title: About
 permalink: /about
 ---
-<img src="/assets/miscellaneplans banner.jpg"/>
+<img src="/assets/miscellaneplans banner.jpg">
+
 # About Me
-I've been a graphic designer and educational publisher for more than 30 years, and I'm a part-time teacher.
+I've been a graphic designer, educational publisher, and part-time teacher for more than 30 years.
 
 Planning is my passion! I’ve been consuming and creating planners for as long as I can remember and I’m loving the shift from paper to paperless. Actually that should read paper, less. You won't see me giving up my notebook and pen any time soon.
 
