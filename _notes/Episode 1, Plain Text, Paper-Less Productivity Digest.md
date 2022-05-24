@@ -1,8 +1,14 @@
+---
+title: Episode 1: Plain Text, Paper-Less Productivity Digest
+---
+
 # Plain Text, Paper-Less Productivity Digest, Episode 1
 
 ## Tips for beating procrastination, tweaks to my daily note, and test-driving 3 apps
 
 <img src="/assets/1_Plain-Text_Paper-Less.png">
+
+*Originally published on [Medium](https://miscellaneplans.medium.com/plain-text-paper-less-productivity-digest-episode-1-8d0c5c9b68af), 2022-05-23*
 
 This is the first in a series of posts documenting my plain text, paper-less journey. It’s raw, it’s real, and—hopefully—relevant.
 

@@ -8,17 +8,12 @@ permalink: /
 # Welcome! 🌱
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-This is a series of posts documenting my plain text, paper-less journey.
+Locally stored plain text is the only proven, future-proof way to stay in control of your digitised thoughts. The time I spend writing, managing, and planning is a cohesive part of the journey I’m on to become a better person today than I was yesterday. Someone who joyfully does things designed to better my life, and the lives of others.
 
-Each post is a ≤ 5-minute summary of what I've read, learned, and implemented since the last episode.
-  <br>
-  Go to <span style="font-weight: bold">[[My first note]]</span> to see a sample interlinked note.
-</p>
-<p size="small">
-*This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).*
-</p>
-*The easiest way to get started is to read this [step-by-step guide explaining how to set it up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).*
+This is a digital garden. There are plots of cultivated land  here and there, and a whole lot of wild seeds growing in unexpected places. Begin wherever you like, and click the links to explore!
 
+Here's a good place to start:
+[[Episode 1, Plain Text, Paper-Less Productivity Digest]]
 
 <style>
   .wrapper {
