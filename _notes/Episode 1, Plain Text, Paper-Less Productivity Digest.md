@@ -2,7 +2,7 @@
 
 ## Tips for beating procrastination, tweaks to my daily note, and test-driving 3 apps
 
-![](https://cdn-images-1.medium.com/max/1600/1*r39xmqON04ZJj30o5rsz6A.png)
+<img src="/assets/1_Plain-Text_Paper-Less.png">
 
 This is the first in a series of posts documenting my plain text, paper-less journey. It’s raw, it’s real, and—hopefully—relevant.
 

@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about
 ---
+
 <img src="/assets/miscellaneplans banner.jpg">
 
 # About Me
