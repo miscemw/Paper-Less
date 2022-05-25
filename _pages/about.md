@@ -15,11 +15,11 @@ I'm one of the founders of [E&R Publications](https://eandrpublications.com.au/)
 
 This year I'm working on a few projects.
 - An interactive PDF planner for regular people (not just teachers)
-- Writing regularly on Medium
-- Learning how Twitter works, and figuring out if it's for me
 - Exploring plain text productivity
+- Writing regularly on [Medium](https://medium.com/@miscellaneplans)
 
 ---
+<p style="font-size: small">
 I built this digital garden on the free, open-source template [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template). I create and edit Markdown files for this site in [Obsidian](http://obsidian.md), and [Visual Studio Code](https://code.visualstudio.com).
 
 If you want to build your own, the easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
