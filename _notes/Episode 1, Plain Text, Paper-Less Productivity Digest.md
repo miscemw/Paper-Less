@@ -1,5 +1,5 @@
 ---
-title: Episode 1: Plain Text, Paper-Less Productivity Digest
+title: Episode 1 - Plain Text, Paper-Less Productivity Digest
 ---
 
 # Plain Text, Paper-Less Productivity Digest, Episode 1
