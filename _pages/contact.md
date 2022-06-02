@@ -4,19 +4,6 @@ title: Contact
 permalink: /contact
 ---
 
-#### Leave me a message
+Want to get in contact? Leave me a message here.
 
-<script>
-  (function (p, l, u, t, i, o) {
-    p[t] = p[t] || function () {
-      (p[t].q = p[t].q || []).push(arguments);
-    };
-    o = l.getElementsByTagName('head')[0];
-    i = l.createElement('script');
-    i.async = 1;
-    i.src = u;
-    o.appendChild(i);
-  })(window, document, 'https://cdn.plutio.com/messenger/main.js', '$plutio_msg');
-
-  $plutio_msg('HorKwrAiWiAXzaHqJ', { });
-</script>
+<iframe width="760" height="400" src="https://e-r-publications.plutio.com/embed/form/yzXyX6vvyoARm3aA6" frameBorder="0"></iframe>
