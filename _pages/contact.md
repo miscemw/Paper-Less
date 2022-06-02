@@ -1,5 +1,7 @@
 ---
+layout: page
 title: Contact
+permalink: /contact
 ---
 
 #### Leave me a message
