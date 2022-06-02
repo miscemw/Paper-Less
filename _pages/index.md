@@ -2,7 +2,7 @@
 layout: page
 title: Home
 id: home
-permalink: /home
+permalink: /index
 ---
 
 # Welcome!
