@@ -19,7 +19,7 @@ body {
   max-width: 35em;
 
   @media (min-width: 820px) {
-    font-size: 1.2rem;
+    font-size: 1rem;
   }
 }
 
@@ -31,7 +31,7 @@ time {
 
 footer {
   margin: 2em 0;
-  font-size: 0.8em;
+  font-size: 0.7em;
   color: mix($color-text, white, 80%);
   padding-top: 1em;
 }
