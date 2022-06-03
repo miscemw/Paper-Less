@@ -5,7 +5,7 @@ id: home
 permalink: /index
 ---
 
-<img src="aaron-burden-Kp9z6zcUfGw-unsplash.jpg">
+<img src="Pasted-image-20220531165257">
 
 # Welcome!
 I'm [Ellane](https://medium.com/@miscellaneplans/about), and this is my plain-text-productivity-centred digital garden. I believe that
