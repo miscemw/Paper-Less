@@ -5,6 +5,8 @@ id: home
 permalink: /index
 ---
 
+<img src="aaron-burden-Kp9z6zcUfGw-unsplash.jpg">
+
 # Welcome!
 I'm [Ellane](https://medium.com/@miscellaneplans/about), and this is my plain-text-productivity-centred digital garden. I believe that
 <p style="padding: 2em 2em; background: #f6f1e3; border-radius: 4px;">
