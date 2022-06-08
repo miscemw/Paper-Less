@@ -14,7 +14,9 @@ I'm [Ellane](https://medium.com/@miscellaneplans/about), and this is my plain-te
 <br>
 
 [[Why I write]]  
-[[things you should know about my approach]]<br>
+[[things you should know about my approach]]
+
+<br>
 
 There are plots of cultivated land here, with wild seeds growing in unexpected places. Begin wherever you like and click the links to explore! <br>
 
