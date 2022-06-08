@@ -13,7 +13,7 @@ I'm [Ellane](https://medium.com/@miscellaneplans/about), and this is my plain-te
 <span style="font-weight: bold">keeping and backing up locally stored plain text is the only proven, future-proof way to stay in control of your digital notes.</span></p>
 <br>
 
-[[Why I write]]   
+[Why I write](obsidian://open?vault=PLAINTEXTPAPER-LESS_GH&file=Paper-Less%2F_notes%2FWhy%20I%20write)
 [[Things you should know about my approach]]  
 
 <br>
