@@ -5,7 +5,7 @@ id: home
 permalink: /index
 ---
 
-<img src="/assets/Pasted-image-20220531165257.png">
+<img src="/_assets/Pasted-image-20220531165257.png">
 
 # Welcome!
 I'm [Ellane](https://medium.com/@miscellaneplans/about), and this is my plain-text productivity-centred digital garden. I believe that—
@@ -13,8 +13,8 @@ I'm [Ellane](https://medium.com/@miscellaneplans/about), and this is my plain-te
 <span style="font-weight: bold">keeping and backing up locally stored plain text is the only proven, future-proof way to stay in control of your digital notes.</span></p>
 <br>
 
-[[Why I write]]  
-[[things you should know about my approach]]
+	[[Why I write]]  
+[[Things you should know about my approach]]
 
 <br>
 
