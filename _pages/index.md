@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Home
+dg-title: Home
 id: home
 permalink: /index
 ---
