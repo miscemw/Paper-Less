@@ -14,7 +14,7 @@ I'm [Ellane](https://medium.com/@miscellaneplans/about), and this is my plain-te
 <br>
 
 [Why I write](obsidian://open?vault=PLAINTEXTPAPER-LESS_GH&file=Paper-Less%2F_notes%2FWhy%20I%20write)
-[[Things you should know about my approach]]  
+[Things you should know about my approach](Things%20you%20should%20know%20about%20my%20approach.md)  
 
 <br>
 
